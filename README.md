@@ -1,1 +1,1 @@
-This is my personal website : https://veena-peramburu.github.io/veena_blog/
+This is my personal website : https://Veena-Peramburu.github.io/veena_blog/
